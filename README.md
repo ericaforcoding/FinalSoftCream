@@ -26,10 +26,10 @@
 
 ## 👥 팀원 구성
 
-이준엽  [Github](https://github.com/[dortkthf](https://github.com/dortkthf) 
+이준엽  [Github](https://github.com/dortkthf) 
 이주용 [Github](https://github.com/yaonggod) 
 오진수 [Github](https://github.com/ericaforcoding)   
-김병우 [Github](https://github.com/[**BuildEnough**](https://github.com/BuildEnough) 
+김병우 [Github](https://github.com/BuildEnough) 
 
 
 ## 🎥 시연 영상
