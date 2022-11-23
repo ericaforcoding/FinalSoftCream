@@ -2,7 +2,7 @@
 
 ## ✅ 프로젝트 소개
 
--   프로젝트 개요: CREAM(Code Rules Everything Around me) 팀의 KREAM 클론 코딩
+-   프로젝트 개요: Soft Cream 팀의 KREAM 클론 코딩
     
 -   프로젝트 기간: 2022.10.31 ~ 2022.11.08
     
